@@ -1,0 +1,4 @@
+__pycache__/
+*.o
+*_wrap.cxx
+*_wrap.cpp
